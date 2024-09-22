@@ -3,29 +3,16 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header"
-    },
-    {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
-      "description": "This text is entirely editable, tailor it freely."
+      "title": "<p>Drawveloper</p>",
+      "description": "AI-native Canvas IDEs will change how we build software forever"
     },
     {
       "__resolveType": "site/sections/MainPost.tsx",
       "post": {
         "__resolveType": "blog/loaders/BlogPostItem.ts",
-        "slug": "why-we-web"
+        "slug": "impending-death-of-frontend-frameworks"
       }
-    },
-    {
-      "__resolveType": "site/sections/BlogPosts.tsx",
-      "posts": {
-        "__resolveType": "blog/loaders/BlogpostList.ts",
-        "count": 6
-      }
-    },
-    {
-      "__resolveType": "Footer"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
