@@ -6,12 +6,12 @@
     }
   ],
   "seo": {
-    "titleTemplate": "%s | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx",
+    "titleTemplate": "%s | Drawveloper.com",
+    "descriptionTemplate": "%s | Drawveloper.com",
     "type": "website",
-    "title": "Blog",
-    "description": "Improve your page performance with deco.cx",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5018/c8188deb-9ed0-4394-8ede-af8fb4263ba4",
+    "title": "Drawveloper.com",
+    "description": "Draw software and be done",
+    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/drawveloper/5dd5c570-0e4a-4c26-8856-c70fa7aa48b7/Create-a-low-poly-and-simplistic-logo-for-a-blog-themed-around-AI-enabled-web-development-with-a-play-on-drawing-and-developer.-The-logo-should-depict-elements-related-to-drawing-canvas-and-AI.-It-should-be-carefree-and-vibrant-but-also-refined-and-aesthetic.-Please-avoid-using-any-text-and-make-sure-it's-suitable-for-small-sizes-while-maintaining-its-playfulness-and-charm.",
     "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5018/71c97b9c-b94a-4cf5-8120-4bb7b99b21bb"
   },
   "global": [
@@ -24,6 +24,6 @@
   },
   "firstByteThresholdMS": false,
   "theme": {
-    "__resolveType": "Neutral"
+    "__resolveType": "Drawgreen"
   }
 }

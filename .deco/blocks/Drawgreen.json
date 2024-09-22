@@ -14,17 +14,6 @@
     "--tab-border": "1px",
     "--tab-radius": "0.5rem"
   },
-  "mainColors": {
-    "base-100": "#ffffff",
-    "primary": "#171717",
-    "secondary": "#c7c7c7",
-    "tertiary": "#404040",
-    "neutral": "#333333",
-    "success": "#008060",
-    "warning": "#ffc453",
-    "error": "#d82c0d",
-    "info": "#2e72d2"
-  },
   "font": {
     "__resolveType": "website/loaders/fonts/googleFonts.ts",
     "fonts": [
@@ -34,5 +23,16 @@
       }
     ]
   },
-  "mode": "light"
+  "mode": "light",
+  "mainColors": {
+    "base-100": "#ffffeb",
+    "primary": "#1f3221",
+    "secondary": "#c7c7c7",
+    "tertiary": "#404040",
+    "neutral": "#333333",
+    "success": "#008060",
+    "warning": "#ffc453",
+    "error": "#d82c0d",
+    "info": "#2e72d2"
+  }
 }
