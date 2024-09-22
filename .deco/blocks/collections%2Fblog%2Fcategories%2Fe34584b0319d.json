@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/e34584b0319d",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Webdev",
+    "slug": "webdev"
+  }
+}
